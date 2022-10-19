@@ -1,28 +1,10 @@
-(ingenuous, credulous, dupe) - (innocent, gullible, someone easily fooled)
-meek, obsequious, servile, fawning - trying to earn respect by self-deprecating
-desultory - aimless
-
-voluble, loquacious, garrulous, prolix - talkative XX laconic
-facetious - inappropriately humorous
-
-(eulogy, dirge, elegy - good account of a person, [death], (poem/song))
-(gossamer, florid - delicate and light, excessively detailed)
-foment, engender - give rise to
-
-(inimical, estimable - enemical, esteemable)
-inspidid, hackneyed, banal, prosaic - lacking taste, repetetitive and platitude and prosaic
-
-mollify, placate - make less angry
 irascible, choleric - easily made angry
-implacable - cannot be made less angry
 impervious, inexorable, obdurate, recalcitrant, refractory, intransigent - cannot be convinced and stubborn
-cogent - convincing
-
-charlatan, heretic, iconoclast, maverick, sycophant (more servish like)
+charlatan, heretic, iconoclast, maverick, sycophant
 guileless, artless - without cunning
-caustic cunning
+caustic cunning, mordant
 
-impudent, impertinent, boorish, effrontery, presumptuous - ..., the act of being impudent
+impudent, impertinent, boorish, effrontery, presumptuous, imperious - ..., the act of being impudent
 denigrate, deride, disparage - insult
 disingenuous, insincere, dissembling, artful - seeking to harm, cunning
 equivocate - mislead and conceal the truth
@@ -34,38 +16,38 @@ incoherent, disjointed - not making sense
 fervour, fiend, fanatic, zealot, fervent - very passionate
 assiduous, dilligent, scrupulous, meticulous, incisive
 
-arduous, strenous
-
 hopeless, forlorn, morose
-magnanimity, generosity, charitableness, benevolence, munificence, largesse, altriusm
+magnanimity, generosity, charitableness, benevolence, munificence, largesse, altriusm, beneficient
 
 galvanize, impassion - make someone passionate
-parochial, insular - narrow minded
-torpor, lassitude, languor - 
-laconic, curt
+torpor, lassitude, languor - physical tiredness
 
 decadent, declining
 
-unscrupulous, perfunctory
-equanimity, phelgmatic - calm and not easily disturbed
-burgeon, proliferate
-derilection, propensity
-recant, repudiate - disown
+derilection, propensity, proclivity
 onerous, pernicous, perilous - dangerous
 
 frugality, thrift
 craftily, deviously - done with skill, but a little dishonest
-unformed, nascent, inchoate
-shrwed, acumen (noun), sagacious - sharpness
+unformed, nascent, inchoate, incipient
+shrwed, acumen (noun) - sharpness
 cede, concede - give up, yield power to
-reproach, berate - scold
 skullduggery, underhandedness - deceit, trickery
 
-indecorous, unseemly, unceremoniouss
-corroborate, ratify
+indecorous, unseemly, unceremonious
 
 burdgeon, burnish - grow, enhance something by polishing (or literally polishing)
 acerbic, asperity - harshness in tone
 temperance, abstemious - indulging moderately in one's desires
 recondite, inscrutable - difficult to understand
-opulence, truculence - richness, ferocity
+avaricious, rapacious - greedy
+asinine, fatuous - extremely foolish
+flog, flag - beaten down, grow feeble
+demur, demure - dispute, reserved
+bristle, bridle - react angrily, show anger
+bulwark, aegis - protection
+canard, lurid - sensational story, shocking and sensational
+disabuse, recant - let go of incorrect assumptions, revoke a previous opinion
+
+disaffected, dissident - someone who is discontent with authority, someone who opposes authority
+inveigle, blandishment, wheedle - persuade someone to do something by flattering them

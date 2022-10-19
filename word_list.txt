@@ -1,15 +1,13 @@
 effable - able to be described in words
 indelible - permanent ink that cannot be removed
 affable, convivial - friendly
-dimunitive - extremely small
 duplicity - deceit
 dupe - deceive
 deftness - skill, dexterity
 objurgation - the act of reproaching
-nettle - annoys
-pugnacious - eager to fight
 herald harbinger - a sign that something is about to happen, held as (he was heralded as the victor)
 fugacious - tending to disappear
+
 slighted - insult without giving attention (by rejecting silently)
 wares - pottery
 portend, augurs - be likely that something is about to happen
@@ -19,6 +17,7 @@ fitfully - not regularly, intermittently
 avarice, rapacious- extreme greed, aggresively greedy
 baseness - lack of moral principles
 bristled - react angrily
+
 urbane - courteous and refined
 numinous - spiritual
 acerbic - of speaking or writing, sarcastic and witty, scathing
@@ -28,15 +27,17 @@ fortuitous - happening by chance
 malfeasance - wrongdoing
 beholden to - indebted to
 impecunious - lacking wealth
+
 trite - lacking originality
 gentrified - refined and respectable
-adjure - reject
+abjure - reject
 plodding, lumbering - slow moving
 dour - stern
 pliant - flexible
 manacled - restricted
-noxious, malodorous - smellign unpleasant
+noxious, malodorous - smelling unpleasant
 crass, unseemly - inappropriate
+
 sequester - hide
 philanderer - womanizer'
 supple, nimble - light and flexible
@@ -46,8 +47,9 @@ percipient - perceptive
 clairvoyant - a person who has a supernatural-like ability to foresee future events
 pusillanimous - craven and cowardly
 dastardly - extremely cowardly
+
 satiety - being satisfied, particularly to being full while eating
-iniquity - wickedness
+iniquity, depraved - wickedness
 variegated - a lot of variety
 prognosticate - provide a prognosis
 supernumerary - more than needed
@@ -55,6 +57,7 @@ stentorian - loud and powerful
 grandiloquent - speaking/writing in a pompous way
 froward - difficult to put up with
 bumptious - irritatingly and overly assertive
+
 puffery - exaggerated praise, flattery
 condign - punishment that is proportionate to the crime
 asperity - harshness (slightly acerbic)
@@ -64,13 +67,32 @@ ostensibly - apparently so (but may not be true)
 arboreal - related to trees
 conflate - combine two or more ideas into one
 martinet - a strict disciplinarian
+
 whit - bit, I'm every whit a fond of her
 stint - restrict
 qualm, misgiving, reservation, apprehension - second thoughts and uneasy feelings of doubt
-curmudgeon, grump - someone who is sad and pessimistic and sulks
+curmudgeon, grump - someone who is sad and pessimistic and sulks i.e. ill-tempered
 malaise - general feeling of discomfort
 wily - clever
 retiring, self-effacing - not drawing attention to oneself
-flogged - beaten
+flogged - beaten down
 catatonic, stupor - sleep like
-turpid - morally depraved
+
+turpid, turbid, turgid - morally depraved, muddy, swollen and pompous
+hortatory - exhorting
+hidebound - unwilling to change because of tradition
+august - respected and eminent
+ineffable - to great to be described in words
+dicomfited, unnerved - make someone feel uneasy
+acolyte - follower
+jettison - throw something from an aircraft
+disaffected - discontent with authority
+rakish - a dashing and slightly disreputable appearance
+
+lascivious - feeling an overt sexual desire
+trepidation - apprehension
+illiberality - intolerance
+listless - lacking energy
+ruse - an action intended to deceive someone
+delectable - delicious
+convalescence - time spent in recovery from sickness
